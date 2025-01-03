@@ -27,4 +27,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
+ https://github.com/Im-Dipak-Shedge/ToDo-app-Android.git
